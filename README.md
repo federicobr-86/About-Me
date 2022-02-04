@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico!
 - 👀 I’m interested in Web Development (HTML 5, CSS 3, Javascript ES6, React.js)
-- 🌱 I’m currently learning Redux and in the future will learn React Native.
+- 🌱 I’m currently learning Redux and in the near future will start learning React Native. 
 - 💞️ I’m looking to collaborate on open source projects that help people.
 - 📫 How to reach me: federicobarbagallo@gmail.com     linkedin.com/in/federico-barbagallo
 
